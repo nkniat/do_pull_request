@@ -3,6 +3,8 @@ with open (path, 'r') as file:
   content = file.readlines()
   content2 = file.read()
 
+from ile import *
+
 #funkcja usuwająca puste linie   "usun_puste"
 content_bez_pustych = usun_puste(content)
 
