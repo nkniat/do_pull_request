@@ -21,4 +21,5 @@ print('Litera "a" wystepuje ', ile_a(content),' razy')
 #
 # #funkcja biorąca "content" i zapisująca wszystkie linie w jednej liście     "razem"
 # content_razem = razem(content)
+#mala zmiana
 
