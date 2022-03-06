@@ -1,3 +1,4 @@
-def ile (content2, x):
-    findx = content2.count(x)
-    return findx
+#funkcja licząca ilość wystapień wskazanej litery     "ile"
+def ile(content, letter):
+   return content.count(letter)
+
